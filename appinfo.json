@@ -12,18 +12,18 @@
     "resources": {
         "media": [
             {
-                "file": "images/background.png",
-                "name": "IMAGE_BACKGROUND",
+                "file": "images/background-simple.png",
+                "name": "IMAGE_BACKGROUND_SIMPLE",
                 "type": "png"
             },
             {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "FONT_PERFECT_DOS_20",
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "FONT_OPENSANS_LIGHT_20",
                 "type": "font"
             },
             {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "FONT_PERFECT_DOS_48",
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "FONT_OPENSANS_LIGHT_48",
                 "type": "font"
             }
         ]
