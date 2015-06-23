@@ -12,6 +12,16 @@
     "resources": {
         "media": [
             {
+                "file": "fonts/OpenSans-Bold.ttf",
+                "name": "FONT_OPENSANS_BOLD_48",
+                "type": "font"
+            },
+            {
+                "file": "images/background-tunnel-bw.png",
+                "name": "IMAGE_BACKGROUND_TUNNEL",
+                "type": "png"
+            },
+            {
                 "file": "images/background-simple.png",
                 "name": "IMAGE_BACKGROUND_SIMPLE",
                 "type": "png"
